@@ -72,3 +72,4 @@
 ![](20230525_0039.jpg)
 1. To reset the rain sensor, use the switch located on top of the control box.
 2. This action will restart the machine and reset the rain sensor.
+
